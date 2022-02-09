@@ -1,7 +1,7 @@
 ### Hi there Osmel🤖
 ![Alt Text](https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif)
 
-<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="150" height="120" align="right"/>
+<img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="439" height="321" align="right"/>
 
 
 💻 T.S.U en Tecnologias de la Informacion
