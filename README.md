@@ -1,12 +1,15 @@
 ### Hi there Osmel🤖
-![Alt Text](https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif)
+<!--[Alt Text](https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif)-->
 
 <img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="439" height="321" align="right"/>
 
+💻 Ingeniería en Desarrollo y Gestión de Software
 
-💻 T.S.U en Tecnologias de la Informacion
+💻 T.S.U en Tecnologias de la Informacion 
 
 💻 Web developer
+
+
 <!--**OsmelMdz/OsmelMdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
