@@ -2,7 +2,7 @@
 <p>
   <div align="center">
   <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px" /> 
-  &nbsp;Estudiante de la carrera de Ingeniería en Desarrollo y Gestión de Software&nbsp; 
+  &nbsp;Ingeniería en Desarrollo y Gestión de Software&nbsp; 
   <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px" />
 </div>
 </p>
