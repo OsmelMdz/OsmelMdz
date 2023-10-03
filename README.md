@@ -1,9 +1,9 @@
 <h1 align="center">Osmel Mendez</h1>
 <p>
   <div align="center">
-  <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px" /> 
-  &nbsp;Ingeniería en Desarrollo y Gestión de Software&nbsp; 
-  <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px" />
+  <!--<img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px"/>&nbsp;--> 
+  Ingeniería en Desarrollo y Gestión de Software 
+  <!--&nbsp;<img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50px" />-->
 </div>
 </p>
 <div> 
