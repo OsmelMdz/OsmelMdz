@@ -51,38 +51,32 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50">-->
 </div>
 <br><br>
-<!--- stats & Trophy (start) -->
+<!--- stats (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OsmelMdz&theme=radical&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=OsmelMdz&theme=radical&show_icons=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OsmelMdz&theme=radical" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OsmelMdz&theme=radical"/> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OsmelMdz&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=OsmelMdz&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+  <br></br>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OsmelMdz&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-<!--- trophy (start) -
-<div align=center>
+  <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"/>
     </a>
 </div>
--- trophy (start) -->
 </p>        
-<p align="center">
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&no-frame=false&no-bg=true&margin-w=4" /> 
-</p>
 <!--- stats (end) -->
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img align="center" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
 </p>
 
 
