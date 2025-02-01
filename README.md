@@ -75,6 +75,9 @@
 </div>
 -- trophy (start) -->
 </p>        
+<p align="center">
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&no-frame=false&no-bg=true&margin-w=4" /> 
+</p>
 <!--- stats (end) -->
 
 <p align="center">
