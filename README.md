@@ -2,7 +2,7 @@
 <p>
   <div align="center">
   Ingeniero en Desarrollo y Gestión de Software
-</div>
+  </div>
 </p>
 <div> 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" style="max-width: 10px;height: 250px;">
@@ -21,8 +21,14 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 </div>
-<br><br><br><br>
+<br><br>
 <!--- stats (start) -->
 <p align="center">
 <table align="center">
@@ -46,9 +52,6 @@
 </div>
 </p>        
 <!--- stats (end) -->
-
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
 </p>
-
-
