@@ -17,6 +17,7 @@
 
 ### Frameworks:
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -35,13 +36,9 @@
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=OsmelMdz&theme=radical&show_icons=true&count_private=true"/>
-  <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OsmelMdz&theme=radical"/> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=OsmelMdz&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-  <br></br>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OsmelMdz&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmelMdz&layout=compact&theme=radical"/>
   </td>
 </tr>
 </table>
