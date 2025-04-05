@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Go](https://img.shields.io/badge/-GoLand-000?&logo=GoLand)
 
 ### Frameworks:
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
@@ -35,19 +35,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=OsmelMdz&theme=radical&show_icons=true&count_private=true"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=OsmelMdz&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmelMdz&layout=compact&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmelMdz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </td>
 </tr>
 </table>
   <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"/>
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OsmelMdz&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
     </a>
 </div>
-</p>        
+</p>  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--- stats (end) -->
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
